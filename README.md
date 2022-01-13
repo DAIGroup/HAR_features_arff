@@ -1,5 +1,9 @@
 # Human action recognition from accelerometer data - ARFF filtered data generator script
 
+
+[![DOI](https://zenodo.org/badge/440236015.svg)](https://zenodo.org/badge/latestdoi/440236015)
+
+
 This is a MATLAB script for the conversion of raw accelerometer data from the PAAL ADL (v1.0 or v2.0) into a filtered ARFF file.
 
 To download the raw data, please access our [Zenodo](zenodo.org) repositories:
